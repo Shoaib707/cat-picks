@@ -32,4 +32,4 @@ Note: the prompt says to display the value on a single Staff Pick. Since the req
 
 ## AI Assistance
 
-I used ChatGPT Codex to scaffold the plugin, check the WordPress implementation approach, and draft this README.
+I used ChatGPT Codex to assist me with the plugin, used WordPress documentation for implementation approach, and drafted this README using ChatGPT.
